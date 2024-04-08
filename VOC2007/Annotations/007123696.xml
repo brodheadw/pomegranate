@@ -1,0 +1,26 @@
+<annotation>  
+	  <folder>images</folder>  
+	  <filename>007123696.jpg</filename>  
+	  <path>C:\Users\Desktop\003696.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>480</width>    
+		    <height>640</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>mid-growth</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>177</xmin>      
+			      <ymin>277</ymin>      
+			      <xmax>287</xmax>      
+			      <ymax>418</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>  
+	  <folder>images</folder>  
+	  <filename>005011316.jpg</filename>  
+	  <path>C:\Users\Desktop\001316.jpg</path>  
+	  <source>    
+		    <database>Unknown</database>    
+	  </source>  
+	  <size>    
+		    <width>480</width>    
+		    <height>640</height>    
+		    <depth>3</depth>    
+	  </size>  
+	  <segmented>0</segmented>  
+	  <object>    
+		    <name>flower</name>    
+		    <pose>Unspecified</pose>    
+		    <truncated>0</truncated>    
+		    <difficult>0</difficult>    
+		    <bndbox>      
+			      <xmin>123</xmin>      
+			      <ymin>305</ymin>      
+			      <xmax>232</xmax>      
+			      <ymax>470</ymax>      
+		    </bndbox>    
+	  </object>  
+</annotation>
